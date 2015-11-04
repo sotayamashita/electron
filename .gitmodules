@@ -1,6 +1,7 @@
 [submodule "vendor/brightray"]
 	path = vendor/brightray
 	url = https://github.com/atom/brightray.git
+	branch = windows-notifications
 [submodule "vendor/node"]
 	path = vendor/node
 	url = https://github.com/atom/node.git
