@@ -25,7 +25,9 @@ messages on `port`. The default `port` is `5858`. -->
 
 ### `--debug-brk=[port]`
 
-Like `--debug` but pauses the script on the first line.
+<!-- Like `--debug` but pauses the script on the first line. -->
+`--debug`オプションと違って最初の行でスクリプトを停止します。
+
 
 <!-- ## Use node-inspector for Debugging -->
 ## デバックのために node-inspector を使用します
@@ -54,7 +56,7 @@ $ electron --debug=5858 your/app
 ```
 
 <!-- or, to pause your script on the first line: -->
-もしくは、指定した行でスクリプトを停止するためには以下のようになります：
+もしくは、最初の行でスクリプトを停止するためには以下のようになります：
 
 ```bash
 $ electron --debug-brk=5858 your/app
