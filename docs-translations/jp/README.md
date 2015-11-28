@@ -10,4 +10,6 @@
 
 ## API リファレンス
 
-* [Main Process のモジュール](api/menu.md)
+### Main Process のモジュール
+
+* [Menu](api/menu.md)
