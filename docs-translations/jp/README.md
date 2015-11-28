@@ -7,3 +7,7 @@
 
 * [クイックスタート](tutorial/quick-start.md)
 * [オンラインかオフラインかを判断するイベント](tutorial/online-offline-events.md)
+
+## API リファレンス
+
+* [Main Process のモジュール](api/menu.md)
