@@ -1,5 +1,6 @@
 # ガイド
 
+* [サポートされているプラットフォーム](tutorial/supported-platforms.md)
 * [Main Process のデバック方法](tutorial/debugging-main-process.md)
 
 # チュートリアル
