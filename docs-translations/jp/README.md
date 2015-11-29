@@ -2,6 +2,7 @@
 
 * [サポートされているプラットフォーム](tutorial/supported-platforms.md)
 * [Main Process のデバック方法](tutorial/debugging-main-process.md)
+* [DevTools 拡張](tutorial/devtools-extension.md)
 
 ## チュートリアル
 
