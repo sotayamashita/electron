@@ -5,6 +5,7 @@
 * [アプリケーションパッケージング](tutorial/application-packaging.md)
 * [Main Process のデバック方法](tutorial/debugging-main-process.md)
 * [DevTools 拡張](tutorial/devtools-extension.md)
+* [Pepper Flash Plugin を使用方法](tutorial/using-pepper-flash-plugin.md)
 
 ## チュートリアル
 
